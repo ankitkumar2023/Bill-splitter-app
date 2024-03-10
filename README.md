@@ -1,4 +1,5 @@
 This is code file of bill splitter app
+author - Ankit kumar
 
 </br>
 <ul>
